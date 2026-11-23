@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.15" />
+    <PackageReference Include="Scalar.AspNetCore" Version="3.2.0" />
     <PackageReference Include="SWashbuckle.AspNetCore.SwaggerUI" Version="11.0.1" />
   </ItemGroup>
 
